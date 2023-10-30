@@ -1,4 +1,4 @@
-# Projet Feet on your Cake
+# Projet Api Rest
 
 Hello✌😊
 "Focus Back-end" : Créer une API
@@ -14,7 +14,7 @@ symfony create-project symfony/skeleton api
 
 - PHP 7.4 👐
 - Composer
-
+- Choisir un sujet stupide pour créer une api.
 
 ### Lancer l'environnement de développement
 composer install
